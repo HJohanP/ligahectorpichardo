@@ -1,12 +1,12 @@
 {
     "name": "Alfredo Gómez",
-    "image" : "/img/alfredogomez.jpg",
-    "bio": "Periodista",
+    "image" : "/img/alfredoProfile.JPG",
+    "bio": "Periodista y Ralacionador Publico",
     "social":[
-        {"facebook":"https://www.facebook.com/people/Alfredo-Gómez/100014590202932/"},
-        {"instagram":"https://www.instagram.com/cotuitvenvivo/"},
         {"youtube": "https://www.youtube.com/@alfredogomezenvivo"},
         {"whatsapp":"https://wa.me/18297295086"},
-        {"phone":"tel:+18297295086"}
+        {"phone":"tel:+18297295086"},
+        {"facebook":"https://www.facebook.com/people/Alfredo-Gómez/100014590202932/"},
+        {"instagram":"https://www.instagram.com/cotuitvenvivo/"}
     ]
 }

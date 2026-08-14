@@ -1,0 +1,11 @@
+{
+    "name": "Hector B. Pichardo",
+    "image" : "/img/hectorB.JPG",
+    "bio": "Fundador",
+    "social":[
+        {"youtube": "https://www.youtube.com/@LigaHectorPichardo"},
+        {"whatsapp":"https://wa.me/18296600261"},
+        {"phone":"tel:+18297295086"}, 
+        {"email":"mailto:ligahectorpichardo82@gmail.com"}
+    ]
+}

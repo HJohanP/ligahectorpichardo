@@ -64,14 +64,14 @@ metaDescriptionOrder = ["summary", "description", "site"] # Controls the fallbac
 
 [homepage]
   layout = "page" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "./img/complejo.JPG" # used in: hero, and card
+  # homepageImage = "./img/complejo.JPG" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
-  showMoreLink = false
+  showRecentItems = 3
+  showMoreLink = true
   showMoreLinkDest = "/posts/"
   cardView = true
   cardViewScreenWidth = false
-  layoutBackgroundBlur = true # only used when layout equals background
+  layoutBackgroundBlur = false # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
@@ -118,8 +118,8 @@ metaDescriptionOrder = ["summary", "description", "site"] # Controls the fallbac
   showSummary = false
   showViews = false
   showLikes = false
-  showTableOfContents = false
-  showCards = true
+  showTableOfContents = true
+  showCards = false
   orderByWeight = false
   groupByYear = true
   cardView = true

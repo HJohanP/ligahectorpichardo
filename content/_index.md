@@ -7,7 +7,10 @@ showTableOfContents = true
 
 <!-- {{< alert icon="bell" >}}Proximo {{< /alert >}} -->
 
-{{< typeit tag="h1" lifelike="true" loop="true" >}} Bienvenidos a nuestra pagina Web.{{< /typeit >}}
+{{< typeit tag="h1" lifelike="true" loop="true" >}} Bienvenidos a nuestra nueva pagina Web.{{< /typeit >}}
+
+### No te lo pierdas!
+Evento Copa infantil **Liga Hector Pichardo** celebrando su 44 Aniversario
 
 {{< video src="videopromo.mp4" poster="imagenPromo.jpg" muted=true >}}
 
@@ -15,6 +18,9 @@ showTableOfContents = true
 Publicacion nueva
 {{< /badge >}}
 
----
 
 <!-- <img class="thumbnailshadow" src="/img/IMG_5996.jpg"> -->
+
+
+---
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New York on Liga Hector Pichardo</title>
+    <link>http://localhost:1313/tags/new-york/</link>
+    <description>Recent content in New York on Liga Hector Pichardo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>ligahectorpichardo82@gmail.com (Hector J Pichardo)</managingEditor>
+    <webMaster>ligahectorpichardo82@gmail.com (Hector J Pichardo)</webMaster>
+    <copyright>&amp;copy; 2026 Liga Hector Pichardo. Derechos Reservados.</copyright>
+    <lastBuildDate>Wed, 26 Feb 2020 15:05:40 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/new-york/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Avanzan los trabajos Ciudad Infantil, Liga Hector Pichardo</title>
+      <link>http://localhost:1313/prensa/archives/2020/</link>
+      <pubDate>Wed, 26 Feb 2020 15:05:40 -0400</pubDate>
+      <author>ligahectorpichardo82@gmail.com (Hector J Pichardo)</author>
+      <guid>http://localhost:1313/prensa/archives/2020/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/prensa/archives/2020/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Liga Héctor Pichardo participa en torneo Nueva York</title>
+      <link>http://localhost:1313/prensa/archives/2018/06302018/</link>
+      <pubDate>Sat, 30 Jun 2018 15:05:40 -0400</pubDate>
+      <author>ligahectorpichardo82@gmail.com (Hector J Pichardo)</author>
+      <guid>http://localhost:1313/prensa/archives/2018/06302018/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/prensa/archives/2018/06302018/feature.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

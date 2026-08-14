@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pitch for Baseball on Liga Hector Pichardo</title>
+    <link>http://localhost:1313/tags/pitch-for-baseball/</link>
+    <description>Recent content in Pitch for Baseball on Liga Hector Pichardo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>ligahectorpichardo82@gmail.com (Hector J Pichardo)</managingEditor>
+    <webMaster>ligahectorpichardo82@gmail.com (Hector J Pichardo)</webMaster>
+    <copyright>&amp;copy; 2026 Liga Hector Pichardo. Derechos Reservados.</copyright>
+    <lastBuildDate>Mon, 21 Aug 2017 15:05:40 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/pitch-for-baseball/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Liga Héctor Pichardo agradece a Pitch In For Baseball donación de útiles deportivos.</title>
+      <link>http://localhost:1313/prensa/archives/2017/08212017/</link>
+      <pubDate>Mon, 21 Aug 2017 15:05:40 -0400</pubDate>
+      <author>ligahectorpichardo82@gmail.com (Hector J Pichardo)</author>
+      <guid>http://localhost:1313/prensa/archives/2017/08212017/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/prensa/archives/2017/08212017/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

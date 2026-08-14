@@ -1,0 +1,10 @@
+{
+    "name": "Daury Reyes",
+    "image" : "/img/dauryreyes.jpeg",
+    "bio": "Periodista",
+    "social":[
+        {"facebook":"https://www.facebook.com/dauryreyesdjjakeca/"},
+        {"instagram":"https://www.instagram.com/dauryreyesreporta"},
+        {"youtube":"https://www.youtube.com/@dauryreyes926"}
+    ]
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fallecido on Liga Hector Pichardo</title>
+    <link>http://localhost:1313/tags/fallecido/</link>
+    <description>Recent content in Fallecido on Liga Hector Pichardo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>ligahectorpichardo82@gmail.com (Hector J Pichardo)</managingEditor>
+    <webMaster>ligahectorpichardo82@gmail.com (Hector J Pichardo)</webMaster>
+    <copyright>&amp;copy; 2026 Liga Hector Pichardo. Derechos Reservados.</copyright>
+    <lastBuildDate>Sat, 20 Aug 2016 15:12:10 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/fallecido/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ex-jugadores/josecapellan/</link>
+      <pubDate>Sat, 20 Aug 2016 15:12:10 -0400</pubDate>
+      <author>ligahectorpichardo82@gmail.com (Hector J Pichardo)</author>
+      <guid>http://localhost:1313/ex-jugadores/josecapellan/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/ex-jugadores/josecapellan/feature.jpg.webp" />
+    </item>
+    
+  </channel>
+</rss>

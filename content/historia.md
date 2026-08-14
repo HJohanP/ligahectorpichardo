@@ -27,6 +27,6 @@ authors = ["alfredo"]
 ## Logros
 
 {{< gallery >}}
-  <img src="/Archives/triunfos1.jpg" class="grid-w50" />
-  <img src="/Archives/triunfos2.jpg" class="grid-w50" />
+  <img src="/img/Archives/triunfos1.jpg" class="grid-w50" />
+  <img src="/img/Archives/triunfos2.jpg" class="grid-w50" />
 {{< /gallery >}}

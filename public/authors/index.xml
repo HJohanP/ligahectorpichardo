@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Liga Hector Pichardo</title>
+    <title>Authors on </title>
     <link>http://localhost:1313/authors/</link>
-    <description>Recent content in Authors on Liga Hector Pichardo</description>
+    <description>Recent content in Authors on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>ligahectorpichardo82@gmail.com (Hector J Pichardo)</managingEditor>
     <webMaster>ligahectorpichardo82@gmail.com (Hector J Pichardo)</webMaster>
     <copyright>&amp;copy; 2026 Liga Hector Pichardo. Derechos Reservados.</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Alfredo Gómez</title>
-      <link>http://localhost:1313/authors/alfredo/</link>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <author>ligahectorpichardo82@gmail.com (Hector J Pichardo)</author>
-      <guid>http://localhost:1313/authors/alfredo/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Mon, 24 Aug 2026 17:06:57 -0400</lastBuildDate><atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Daury Reyes</title>
       <link>http://localhost:1313/authors/daury/</link>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 17:06:57 -0400</pubDate>
       <author>ligahectorpichardo82@gmail.com (Hector J Pichardo)</author>
       <guid>http://localhost:1313/authors/daury/</guid>
       <description></description>
@@ -34,9 +24,19 @@
     <item>
       <title>Hector B. Pichardo</title>
       <link>http://localhost:1313/authors/hectorb/</link>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 17:06:57 -0400</pubDate>
       <author>ligahectorpichardo82@gmail.com (Hector J Pichardo)</author>
       <guid>http://localhost:1313/authors/hectorb/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Alfredo Gómez</title>
+      <link>http://localhost:1313/authors/alfredo/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <author>ligahectorpichardo82@gmail.com (Hector J Pichardo)</author>
+      <guid>http://localhost:1313/authors/alfredo/</guid>
       <description></description>
       
     </item>

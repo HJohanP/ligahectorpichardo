@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daury Reyes on Liga Hector Pichardo</title>
+    <title>Daury Reyes on </title>
     <link>http://localhost:1313/authors/daury/</link>
-    <description>Recent content in Daury Reyes on Liga Hector Pichardo</description>
+    <description>Recent content in Daury Reyes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>ligahectorpichardo82@gmail.com (Hector J Pichardo)</managingEditor>
     <webMaster>ligahectorpichardo82@gmail.com (Hector J Pichardo)</webMaster>
     <copyright>&amp;copy; 2026 Liga Hector Pichardo. Derechos Reservados.</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/daury/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Aug 2026 17:06:57 -0400</lastBuildDate><atom:link href="http://localhost:1313/authors/daury/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Copa Infantil 44 Aniversario Liga Hector Pichardo</title>
+      <link>http://localhost:1313/prensa/44aniversario/</link>
+      <pubDate>Mon, 24 Aug 2026 17:06:57 -0400</pubDate>
+      <author>ligahectorpichardo82@gmail.com (Hector J Pichardo)</author>
+      <guid>http://localhost:1313/prensa/44aniversario/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/prensa/44aniversario/feature.jpeg" />
+    </item>
     
     <item>
       <title>Contactos De La Liga</title>

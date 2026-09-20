@@ -2,14 +2,14 @@ disabled = false
 locale = "es"
 label = "Spanish"
 weight = 1
-title = "Liga Hector Pichardo"
+# title = "Liga Hector Pichardo"
 
 [params]
   displayName = "ES"
   isoCode = "es"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "./img/IMG_5996.jpg"
+  logo = "./img/logoHP.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Liga de beisbol Hector Pichardo"
   copyright = "&copy; { year } Liga Hector Pichardo. Derechos Reservados."

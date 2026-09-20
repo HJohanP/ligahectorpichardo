@@ -22,10 +22,10 @@ La respuesta de la comunidad fue simplemente extraordinaria. Queremos destacar l
 - **Ambiente inolvidable:** La alegría, el compañerismo y el espíritu deportivo fueron los verdaderos protagonistas de una jornada que quedará grabada en nuestra memoria.
 
 {{< gallery >}}
-  <img src="img/44Aniversario/staff/IMG_3399.dng" class="grid-w25" alt="Niños espectadores en las gradas"/>
-  <img src="img/44Aniversario/staff/IMG_3398.dng" class="grid-w25" alt="Espectadores en las gradas"/>
-  <img src="img/44Aniversario/staff/IMG_3397.dng" class="grid-w25" alt="Espectadores en las gradas"/>
-  <img src="img/44Aniversario/staff/IMG_3409.jpeg" class="grid-w25" alt="Narrador en gradas!"/>
+  <img src="/img/44Aniversario/staff/IMG_3399.dng" class="grid-w25" alt="Niños espectadores en las gradas"/>
+  <img src="/img/44Aniversario/staff/IMG_3398.dng" class="grid-w25" alt="Espectadores en las gradas"/>
+  <img src="/img/44Aniversario/staff/IMG_3397.dng" class="grid-w25" alt="Espectadores en las gradas"/>
+  <img src="/img/44Aniversario/staff/IMG_3409.jpeg" class="grid-w25" alt="Narrador en gradas!"/>
 {{< /gallery >}}
 
 ## ¡Suscríbete a Nuestro Nuevo Canal de 👉🏼***[YouTube](https://www.youtube.com/@LigaHectorPichardo)***!
@@ -37,11 +37,11 @@ Para que puedas revivir los mejores momentos del aniversario y no perderte ningu
 
 
 {{< gallery >}}
-  <img src="img/44Aniversario/staff/IMG_3400.jpeg" class="grid-w20" />
-  <img src="img/44Aniversario/staff/IMG_3402.jpeg" class="grid-w20" />
-  <img src="img/44Aniversario/staff/IMG_3403.jpeg" class="grid-w20" />
-  <img src="img/44Aniversario/staff/IMG_3406.jpeg" class="grid-w20" />
-  <img src="img/44Aniversario/staff/IMG_3396.dng" class="grid-w20" />
+  <img src="/img/44Aniversario/staff/IMG_3400.jpeg" class="grid-w20" />
+  <img src="/img/44Aniversario/staff/IMG_3402.jpeg" class="grid-w20" />
+  <img src="/img/44Aniversario/staff/IMG_3403.jpeg" class="grid-w20" />
+  <img src="/img/44Aniversario/staff/IMG_3406.jpeg" class="grid-w20" />
+  <img src="/img/44Aniversario/staff/IMG_3396.dng" class="grid-w20" />
 {{< /gallery >}}
 
 

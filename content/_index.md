@@ -31,11 +31,11 @@ Para que puedas revivir los mejores momentos del aniversario y no perderte ningu
 
 
 {{< gallery >}}
-  <img src="/img/staff/IMG_3400.jpeg" class="grid-w20" alt="Anibal presente"/>
-  <img src="/img/staff/IMG_3402.jpeg" class="grid-w20" alt="Rosa en la cafeteria"/>
-  <img src="/img/staff/IMG_3403.jpeg" class="grid-w20" alt="Rafael"/>
-  <img src="/img/staff/IMG_3406.jpeg" class="grid-w20" alt="Entrenador"/>
-  <img src="/img/staff/IMG_3409.jpeg" class="grid-w20" alt="Narrador en gradas!"/>
+  <img src="/img/staff/IMG_3400.jpeg" class="grid-w25" alt="Anibal presente"/>
+  <img src="/img/staff/IMG_3402.jpeg" class="grid-w33" alt="Rosa en la cafeteria"/>
+  <img src="/img/staff/IMG_3403.jpeg" class="grid-w25" alt="Rafael"/>
+  <img src="/img/staff/IMG_3406.jpeg" class="grid-w33" alt="Entrenador"/>
+  <img src="/img/staff/IMG_3409.jpeg" class="grid-w35" alt="Narrador en gradas!"/>
 {{< /gallery >}}
 
 

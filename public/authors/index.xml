@@ -9,12 +9,22 @@
     <managingEditor>ligahectorpichardo82@gmail.com (Hector J Pichardo)</managingEditor>
     <webMaster>ligahectorpichardo82@gmail.com (Hector J Pichardo)</webMaster>
     <copyright>&amp;copy; 2026 Liga Hector Pichardo. Derechos Reservados.</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 17:06:57 -0400</lastBuildDate><atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alfredo Gómez</title>
+      <link>http://localhost:1313/authors/alfredo/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <author>ligahectorpichardo82@gmail.com (Hector J Pichardo)</author>
+      <guid>http://localhost:1313/authors/alfredo/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Daury Reyes</title>
       <link>http://localhost:1313/authors/daury/</link>
-      <pubDate>Mon, 24 Aug 2026 17:06:57 -0400</pubDate>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <author>ligahectorpichardo82@gmail.com (Hector J Pichardo)</author>
       <guid>http://localhost:1313/authors/daury/</guid>
       <description></description>
@@ -24,19 +34,9 @@
     <item>
       <title>Hector B. Pichardo</title>
       <link>http://localhost:1313/authors/hectorb/</link>
-      <pubDate>Fri, 14 Aug 2026 17:06:57 -0400</pubDate>
-      <author>ligahectorpichardo82@gmail.com (Hector J Pichardo)</author>
-      <guid>http://localhost:1313/authors/hectorb/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Alfredo Gómez</title>
-      <link>http://localhost:1313/authors/alfredo/</link>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <author>ligahectorpichardo82@gmail.com (Hector J Pichardo)</author>
-      <guid>http://localhost:1313/authors/alfredo/</guid>
+      <guid>http://localhost:1313/authors/hectorb/</guid>
       <description></description>
       
     </item>

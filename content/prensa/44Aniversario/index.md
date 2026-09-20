@@ -4,7 +4,7 @@ title = "Copa Infantil 44 Aniversario Liga Hector Pichardo"
 draft = false
 showAuthor = false
 authors = ["daury"]
-tags = ["Cotui", "44 Aniversario","Fide De la Cruz"]
+tags = ["Cotui", "44 Aniversario","Tigres de LLorens Torres","Seleccion Santiago"]
 +++
 
 

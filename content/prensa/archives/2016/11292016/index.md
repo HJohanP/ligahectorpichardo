@@ -6,7 +6,7 @@ showAuthor = false
 authors = ["daury"]
 +++
 
-{{< youtube Cx6Bi30ZG94 "Video de CNN">}}
+{{< youtube Cx6Bi30ZG94 "Video de CDN">}}
 
 ![imagen1](/posts/archives/2016/img/image1.jpg)
 

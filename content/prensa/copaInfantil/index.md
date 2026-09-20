@@ -1,7 +1,7 @@
 +++
 date = '2026-08-14T17:06:57-04:00'
 title = "44 Aniversario Liga Hector Pichardo"
-draft = true
+draft = false
 showAuthor = false
 authors = ["HectorB"]
 tags = ["Cotui", "44 Aniversario",""]

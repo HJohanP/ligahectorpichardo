@@ -1,7 +1,7 @@
 +++
 date = '2026-08-24T17:06:57-04:00'
 title = "Copa Infantil 44 Aniversario Liga Hector Pichardo"
-draft = true
+draft = false
 showAuthor = false
 authors = ["daury"]
 tags = ["Cotui", "44 Aniversario","Fide De la Cruz"]
